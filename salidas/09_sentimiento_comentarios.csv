@@ -1,0 +1,407 @@
+comment_id,video_id,channel_name,author_channel_id,comunidad_video,n_palabras_lexico,score_sentimiento,clase_sentimiento,contiene_negador
+Ugw-J65a1iYL9hqhELh4AaABAg,j43HgwYFKfk,Quorum,UCdFlugHJJa4l3YqWuNRmvXw,2,0,,sin señal léxica,False
+Ugw-ZT9t9wU2V-tCaUZ4AaABAg,06mFNPU0aB8,Noti7,UCvl1tzQeBeGy6efPTRJXSCw,8,4,0.75,positivo,True
+Ugw0xaOb2CYXXoudtwJ4AaABAg,j43HgwYFKfk,Quorum,UCRAquv8el-tQ30bN7MlmySQ,2,2,-1.5,negativo,True
+Ugw0xgUc2ISpBr5_T654AaABAg,j43HgwYFKfk,Quorum,UCkbsS_3D-pvg1iHOld9uvIg,2,2,0.5,neutro,False
+Ugw1ZzA21njWhaqQQTh4AaABAg,OkXlHx0hx-8,Noticias Telemundo,UCOLHH4ZpMxPYF-Q6e6wvn5A,6,0,,sin señal léxica,False
+Ugw1ZzA21njWhaqQQTh4AaABAg.Aa9Tf29tBouAaB_XZQglTL,OkXlHx0hx-8,Noticias Telemundo,UCi2KiZq63sRq8Mfbcp-MelQ,6,0,,sin señal léxica,False
+Ugw2014OIYf336oytFt4AaABAg,yLZS3JiEBg8,Quorum,UCXl30Y_upRqbti52fmjK4YA,3,0,,sin señal léxica,False
+Ugw2bSVOoNn2pc8ZcUl4AaABAg,n8iP75gIpmw,Quorum,UCRelkU8JiZBytTzebJxaa-w,1,0,,sin señal léxica,False
+Ugw3gnUvLp6AqO0_odt4AaABAg,lj983NWyAQY,Municipalidad de Guatemala,UCgLurCo-e019HGODcjXHWCw,5,1,1.0,positivo,False
+Ugw4C1ijI36l6LAiSZh4AaABAg,n8iP75gIpmw,Quorum,UCDIMztpVm7G27qBuiWuT6oQ,1,0,,sin señal léxica,False
+Ugw4St_YnT9_Ya5xSPt4AaABAg,ndAZjHqzzT8,Quorum,UCZOmq6MwFDVoCaEl99BRRaw,3,4,-1.25,negativo,False
+Ugw4ccnmIWJaE6VNRWN4AaABAg,6W4u8sGEnGM,Gobierno de la República de Guatemala,UCFybmWapGvBKcQod7cPPH9w,4,1,2.0,positivo,False
+Ugw5E402-fn52PLXFIJ4AaABAg,n8iP75gIpmw,Quorum,UCh5ESQvtzyHDhCA7XyekCFA,1,3,-1.5555555555555556,negativo,True
+Ugw5URsiAF9QVoniY-l4AaABAg,n8iP75gIpmw,Quorum,UCWIZUtKJ636y-4TYrNvok0g,1,1,-1.0,negativo,True
+Ugw5xMAuDaygo77ynI94AaABAg,n8iP75gIpmw,Quorum,UCzoL2l5H5eVlorWGH8AZfAg,1,3,-2.0,negativo,True
+Ugw6cfXYfV4H-asKlDR4AaABAg,TT4qJ5FXHYE,Quorum,UCKVzDUqbtdSMBcexaEtMmzQ,11,5,-1.4,negativo,True
+Ugw74asIfir0_SVC6OB4AaABAg,j43HgwYFKfk,Quorum,UCNpt5CQlTzNjlAKY6CJtClQ,2,1,-2.0,negativo,False
+Ugw86zOgTwKzYotlT9l4AaABAg,n8iP75gIpmw,Quorum,UCut6b9S98nv84cVX89PmKzA,1,3,-0.6666666666666666,negativo,False
+Ugw8iZ_G2Cwq-9ZYctt4AaABAg,j43HgwYFKfk,Quorum,UCQyOePccUP-fIJYzchAgZYw,2,1,1.0,positivo,False
+Ugw8pyxscJNUQpfoKuF4AaABAg,n8iP75gIpmw,Quorum,UCOLGv5Pf6BF2wFcwUzgcvHg,1,2,0.0,neutro,True
+Ugw9_Qw_QaSdggWuKJt4AaABAg,06mFNPU0aB8,Noti7,UCAxvOOHQk7dYPOajzFEVtbA,8,1,-1.0,negativo,True
+Ugw9eye2GML6RHRSu-14AaABAg,n8iP75gIpmw,Quorum,UCQ_-LPP8JAbfkc-b1Q6NvWw,1,2,0.5,neutro,False
+UgwA5aTmgACLCuTUT494AaABAg,lj983NWyAQY,Municipalidad de Guatemala,UCXmrpc6Li0spcKxtS0Q_ptg,5,3,2.0,positivo,True
+UgwARHTnVAzzPrHbNox4AaABAg,n8iP75gIpmw,Quorum,UCZ51R_9Q9C0c8I3pAWhtmjQ,1,1,3.0,positivo,False
+UgwBIwUPLGxEWAu3Mh14AaABAg,X_FAIef8qlE,Quorum,UCPLW0HE3siElqCgXfgWxMqg,14,2,-1.0,negativo,True
+UgwCW5PErySUmwse3bZ4AaABAg,OkXlHx0hx-8,Noticias Telemundo,UCxhtlxPV8AYWaNNyU6S9H8Q,6,1,3.0,positivo,False
+UgwCfRlzeiXz172UQQV4AaABAg,yLZS3JiEBg8,Quorum,UCvcu1kR8xMYy_I1Ty-2mV2Q,3,2,2.0,positivo,False
+UgwCw9bhAw6suYQfCWx4AaABAg,j43HgwYFKfk,Quorum,UCaKAjTW9MVub_clgr4DRYjQ,2,0,,sin señal léxica,False
+UgwEOUk-ofXNqkHW5Cx4AaABAg,n8iP75gIpmw,Quorum,UCxff05WuyvwELNITi7bj7UA,1,1,-1.0,negativo,True
+UgwEQHx8Ik7SbxBTQ914AaABAg,n8iP75gIpmw,Quorum,UCZLG9qH0tUjNhEGFIUt0CYw,1,0,,sin señal léxica,False
+UgwEjfj5ueeimHg-Hbt4AaABAg,j43HgwYFKfk,Quorum,UCwgCc9Jd_gG-uLE_SY-FfPg,2,1,-1.0,negativo,True
+UgwG3XiEgFlHKtrtTqd4AaABAg,n8iP75gIpmw,Quorum,UCXSkL3ejZ8qWYyF_M7s_QKA,1,0,,sin señal léxica,True
+UgwGm1V-_GN1ZPcijdl4AaABAg,n8iP75gIpmw,Quorum,UChs3tU2BcKOT0CezykvAsGw,1,2,-1.5,negativo,True
+UgwHY5LtTiQ0lBONp8N4AaABAg,n8iP75gIpmw,Quorum,UC6PvO1_k5lHKGdAPo5_C6TA,1,2,-2.375,negativo,True
+UgwIB06iEQnFOFLc9et4AaABAg,6W4u8sGEnGM,Gobierno de la República de Guatemala,UCwxoKK59nGCeBqB2sXfDBIw,4,5,-1.2,negativo,True
+UgwIB06iEQnFOFLc9et4AaABAg.Aa-0m2jDJt2Aa42DVzs9Zy,6W4u8sGEnGM,Gobierno de la República de Guatemala,UCWaRixDdpgllTBf4V0jPnKQ,4,4,-1.25,negativo,True
+UgwIBBqN6fh6MURkwkN4AaABAg,j43HgwYFKfk,Quorum,UCkVtmkK07b2zaVVNssX4lOg,2,3,-1.0833333333333333,negativo,False
+UgwIiqrp6EYNoFmnBAR4AaABAg,n8iP75gIpmw,Quorum,UCN6qbfPSzFtjhqUDZ3Cv3CQ,1,2,0.5,neutro,True
+UgwIlv8gtF3WKYfHSJJ4AaABAg,j43HgwYFKfk,Quorum,UC95PSMouTx2N5CbSq0hIyrQ,2,0,,sin señal léxica,False
+UgwJ4UehO5E4j0niJU14AaABAg,n8iP75gIpmw,Quorum,UCueV9cTyTDwgQSec1x2dYgA,1,1,-2.0,negativo,False
+UgwJMFYT7I9czw_oa0V4AaABAg,n8iP75gIpmw,Quorum,UC5H8ASmMC9WrURmzeB4ySog,1,1,-1.0,negativo,True
+UgwJN55EmMcKPRb_AfB4AaABAg,n8iP75gIpmw,Quorum,UCHhHUjaMAZ8SiXdCUCj9DkQ,1,8,0.25,neutro,True
+UgwKjHT5lyjLiqR9ym94AaABAg,n8iP75gIpmw,Quorum,UCgvw7xIdGFupzpt1Y_BFkEA,1,2,1.0,positivo,False
+UgwL_UlN82zRUeNgVDh4AaABAg,j43HgwYFKfk,Quorum,UCeDNEtI8_a42bZ47wJiJMwQ,2,0,,sin señal léxica,False
+UgwMfCTNaiukOxMqfON4AaABAg,6W4u8sGEnGM,Gobierno de la República de Guatemala,UCiOZX__1gahg1ypIj0_XG_w,4,0,,sin señal léxica,False
+UgwNvErOoJ_qRYF6TB94AaABAg,j43HgwYFKfk,Quorum,UCqCrvuoJpC-aVb0f4logQRQ,2,2,1.0,positivo,True
+UgwO8kzHC551ofxNYCV4AaABAg,TT4qJ5FXHYE,Quorum,UCld2stqxaVSk0QdGncM224A,11,2,3.0,positivo,False
+UgwPCZZx2gI444cg2AV4AaABAg,n8iP75gIpmw,Quorum,UCpIdtvoFHVLGASGB5ySqIEA,1,2,-1.5,negativo,True
+UgwRLgDGrh-_TEVNOYh4AaABAg,OkXlHx0hx-8,Noticias Telemundo,UCtiHFjFu7d5v2XxHnKFUYig,6,1,2.0,positivo,False
+UgwSDn5aIUEZwOlx9c94AaABAg,zweosulrwA8,Quorum,UCQM2tCKRRytVDRxNUfCDqQQ,15,0,,sin señal léxica,False
+UgwSt406Q1HWBWCewI14AaABAg,6W4u8sGEnGM,Gobierno de la República de Guatemala,UCWvntqPQx99k_Z_skWKqNSA,4,0,,sin señal léxica,False
+UgwSt406Q1HWBWCewI14AaABAg.Aa-KmSVE5UgAa-M7iXQwik,6W4u8sGEnGM,Gobierno de la República de Guatemala,UCoGdCoJg2Lh0OX_jv6cG16g,4,1,2.0,positivo,False
+UgwTyYcT2aNvGA5DK4J4AaABAg,n8iP75gIpmw,Quorum,UChgkn5Jt5tWKYMoEOuCjz3Q,1,0,,sin señal léxica,False
+UgwUZL4XYbr2lbEi1r94AaABAg,j43HgwYFKfk,Quorum,UCiC-Jn7wdgyQV4_Urk0DkWQ,2,1,-1.0,negativo,False
+UgwXm2HjtCzRKiDHflJ4AaABAg,JkpVO1hx2f8,Quorum,UCQIdKuZ-OzuFqy0KjGrgesg,12,1,-2.0,negativo,False
+UgwY0wdDJRzHsTCnLbN4AaABAg,n8iP75gIpmw,Quorum,UCXr8_5WtGeipe4haOoQDgyQ,1,4,1.0,positivo,False
+UgwY2FW-3sBGV2CGxaJ4AaABAg,06mFNPU0aB8,Noti7,UC_3xuTXvMIWU5MYP9HkJ3vQ,8,2,2.0,positivo,False
+UgwYTL5-XYvmQxsC3Bt4AaABAg,n8iP75gIpmw,Quorum,UCFjudnPLoaSL1BaRuLahyHg,1,2,-1.0,negativo,True
+UgwYaHf9EYIl5Pf-y514AaABAg,n8iP75gIpmw,Quorum,UC-pNP6RMFuLg_-x7Ah_0kEA,1,1,2.0,positivo,False
+UgwZw9X6DpxCIJ6YkXZ4AaABAg,PjmxCj-a9Hg,Gobierno de la República de Guatemala,UC1Y7x3h0c95Z8kUhi-Tzaeg,7,4,-0.75,negativo,True
+Ugw_g00Bv3m-cnSxhMp4AaABAg,OkXlHx0hx-8,Noticias Telemundo,UC1WlJfQmaIskYhP4gmWoamw,6,3,-0.3333333333333333,neutro,True
+Ugw_wfk-1nUcdyG3muZ4AaABAg,n8iP75gIpmw,Quorum,UC3MYTqpQqlWBuCB7Th0e0PA,1,1,3.0,positivo,False
+UgwaGYcI3FekgL1PZct4AaABAg,j43HgwYFKfk,Quorum,UCOcUI5XkTYNMSFhZNMIPpGg,2,2,0.0,neutro,False
+UgwaokeDKlLgSdqHpW94AaABAg,n8iP75gIpmw,Quorum,UCOS8ViEkccrTZx2w2ccxotA,1,1,-1.0,negativo,True
+Ugwbnz3tRoBa7Vs3A3d4AaABAg,b_Hkrkl3adA,PrensaLibreOficial,UC3iIU62XKUOWuqL8BqBzj9A,9,2,-0.5,neutro,False
+Ugwc0TMrFYylioxh_Sh4AaABAg,6W4u8sGEnGM,Gobierno de la República de Guatemala,UCV3fr-YOixFKCZBbJP1-X4w,4,2,1.0,positivo,False
+UgwcF8V3__81jxC8Eh14AaABAg,n8iP75gIpmw,Quorum,UCmjppp6ujz3SAnULvP3sZMw,1,1,-1.0,negativo,True
+UgwdC_aDdYB1wpgGNAt4AaABAg,lj983NWyAQY,Municipalidad de Guatemala,UC5PyGvSfFM--OVKmQ3COu6g,5,0,,sin señal léxica,False
+Ugwe0V0ssRP-r167Lzh4AaABAg,n8iP75gIpmw,Quorum,UCQqetiwzzmRNTM5OWuXarGQ,1,2,-1.5,negativo,True
+UgwgSP2G2qKwGGl5CSp4AaABAg,6W4u8sGEnGM,Gobierno de la República de Guatemala,UCV3fr-YOixFKCZBbJP1-X4w,4,2,0.5,neutro,True
+UgwgoKatyznihVvDVVd4AaABAg,n8iP75gIpmw,Quorum,UCCaYwkkbQGcvFoUmothVdQQ,1,6,1.6666666666666667,positivo,True
+UgwguqWom06c5opgpiF4AaABAg,n8iP75gIpmw,Quorum,UCQgYjVngJRfPHDLGB5X6ZjA,1,3,0.3333333333333333,neutro,True
+UgwhphOY9n46ofElDut4AaABAg,PjmxCj-a9Hg,Gobierno de la República de Guatemala,UCN2N_wYOw6fMwCeSzdXLPIw,7,2,0.5,neutro,False
+UgwiGxmosawIyTVTjnB4AaABAg,n8iP75gIpmw,Quorum,UC9vMq1YF-e7C-VO0SHkbUTA,1,2,-2.0,negativo,False
+Ugwih8O9PeaJ_zd7FWV4AaABAg,n8iP75gIpmw,Quorum,UC8F2V63KZ4ZEay6opX2hAQw,1,6,-1.1666666666666667,negativo,True
+Ugwije36G_n35mshRfp4AaABAg,6W4u8sGEnGM,Gobierno de la República de Guatemala,UCheEJ5GZuIvV0fj-nXyVwXw,4,2,0.5,neutro,True
+UgwjKxflp7TiD0e7_494AaABAg,n8iP75gIpmw,Quorum,UCujPF2nBgsTD62nWE3lcpIg,1,2,-1.5,negativo,True
+Ugwjtq_DUb6ISU-ppsh4AaABAg,n8iP75gIpmw,Quorum,UChs3tU2BcKOT0CezykvAsGw,1,3,1.1666666666666667,positivo,True
+UgwkiP4fW1xfpXbZcV14AaABAg,n8iP75gIpmw,Quorum,UCV0iizTBoOfdAFX_thfI9BA,1,1,2.0,positivo,True
+Ugwm9VajlW3ydbsf-BJ4AaABAg,6W4u8sGEnGM,Gobierno de la República de Guatemala,UCp29O_C7cchZV8IxV7Crdag,4,1,3.0,positivo,False
+UgwmvtMMEFg5rWbrmtV4AaABAg,yLZS3JiEBg8,Quorum,UCkxdJ_yGN2gghOMo2ybQtXQ,3,2,-2.0,negativo,True
+UgwnCwptihjhFCfQK_l4AaABAg,6W4u8sGEnGM,Gobierno de la República de Guatemala,UCjZgFEowMBrsjodqfovzdKw,4,1,3.0,positivo,False
+UgwopmNYOXxE5kyT7fF4AaABAg,n8iP75gIpmw,Quorum,UC4wq3DcbfaG6dtCqn8Oyu3w,1,0,,sin señal léxica,False
+UgwovhZaCiV0r6XOH_R4AaABAg,ndAZjHqzzT8,Quorum,UCVC2QugcI1G4RvlCiUqd1aQ,3,1,3.0,positivo,False
+UgwoyDvqZ6NlBCvXB7t4AaABAg,yLZS3JiEBg8,Quorum,UCXVLc8CmAO813ubM-fLvCDw,3,0,,sin señal léxica,False
+Ugwp1SacIqA0qS_netd4AaABAg,n8iP75gIpmw,Quorum,UCwW2OFy95P7ZBkOPxWkpvYg,1,1,-1.0,negativo,True
+UgwpY9PE_PBfwa2_g_N4AaABAg,n8iP75gIpmw,Quorum,UC3XTwHxygNCgjndsg-UiCQA,1,3,-0.6666666666666666,negativo,False
+Ugwqsca_nj4eGguiyTJ4AaABAg,j43HgwYFKfk,Quorum,UCgQw_Sbq3ugruDUKsq1e0-A,2,1,3.0,positivo,False
+UgwrIvqGid-S983oU9J4AaABAg,n8iP75gIpmw,Quorum,UCL13XhnRzbGokEkCkEOb0-g,1,2,-0.5,neutro,False
+UgwsCWap2Jq1pNrLOWl4AaABAg,n8iP75gIpmw,Quorum,UCQtSFINs1h6GHkpg9o5kMvg,1,1,2.0,positivo,False
+UgwtcR5U0FAkeZsiVVt4AaABAg,06mFNPU0aB8,Noti7,UC2ngpd8UBQu4gcUYy0goAtg,8,0,,sin señal léxica,False
+Ugwvm2HYh08HI1HkcXV4AaABAg,PjmxCj-a9Hg,Gobierno de la República de Guatemala,UC7IMsCxfZyWN7YQo8-JYa6Q,7,4,1.75,positivo,False
+UgwvvK1L0aLOhCMUzfN4AaABAg,n8iP75gIpmw,Quorum,UCzSfZlOVxBSs5ObD25ywxDQ,1,1,-1.0,negativo,True
+UgwwH4OIcVCCN6SbBX14AaABAg,n8iP75gIpmw,Quorum,UCLFdHr9BEbXHkoJopbEPLZw,1,1,-2.0,negativo,False
+UgwwKfLmhHVU-Oxzqtl4AaABAg,n8iP75gIpmw,Quorum,UCNkcuy42zEwddwEcOd_HpnA,1,2,-1.0,negativo,True
+UgwwPrhCy2levkb6TRd4AaABAg,ndAZjHqzzT8,Quorum,UCJp3OrVYcBorC94sKwdch_A,3,14,-0.42857142857142855,neutro,True
+UgwxjmtBoAozs0ZUAcd4AaABAg,is3Mk5oC19g,TN23 Guatemala,UCdFlugHJJa4l3YqWuNRmvXw,10,1,-1.0,negativo,False
+UgwxjmtBoAozs0ZUAcd4AaABAg.AaAbqoGVGipAaAjNG9oPRN,is3Mk5oC19g,TN23 Guatemala,UCLh1Kde4_vI1sTZBkTNP7RQ,10,0,,sin señal léxica,False
+UgwypjUeZBU45DrrW0d4AaABAg,n8iP75gIpmw,Quorum,UCThW2XNsAaBKme5PUt7n-Zg,1,5,-1.2,negativo,True
+Ugwz_6qtdDTbTWEUQQ94AaABAg,n8iP75gIpmw,Quorum,UC6YSZqL0vEcI-niPKIMUGfw,1,2,0.0,neutro,True
+Ugx-G2kCu5aSwh3IR5l4AaABAg,n8iP75gIpmw,Quorum,UCNBnKqWf4d-rS4HwJRQljmQ,1,3,-0.3333333333333333,neutro,True
+Ugx-cQ3Wf3whk_hssDR4AaABAg,06mFNPU0aB8,Noti7,UCO0zwwLWGyDgQmWPJ5Qrr1w,8,0,,sin señal léxica,False
+Ugx-hH6Ysw9sdv3kHPN4AaABAg,j43HgwYFKfk,Quorum,UCwjUvRseNtJoItylIyIez7Q,2,0,,sin señal léxica,False
+Ugx1reCoIQcnK3ii2GR4AaABAg,n8iP75gIpmw,Quorum,UCTwSut16JyAg3mX6LVUNGqA,1,2,-1.5,negativo,True
+Ugx2ApaAMqe4ca4SCYx4AaABAg,n8iP75gIpmw,Quorum,UCLggDc_a5HriXv7I1h02sOA,1,1,-1.0,negativo,True
+Ugx2LwWBVc3mFGJAinB4AaABAg,n8iP75gIpmw,Quorum,UC5H8ASmMC9WrURmzeB4ySog,1,1,2.0,positivo,False
+Ugx2byJzZBZkDMQMUqV4AaABAg,n8iP75gIpmw,Quorum,UCwO2SXr0ggzwg6QWWrr01nQ,1,1,-1.0,negativo,True
+Ugx3uDgmZQhx3Z3VOzt4AaABAg,j43HgwYFKfk,Quorum,UC816IGbFCZinfYS1LRDaaHg,2,0,,sin señal léxica,False
+Ugx3yIUZXGeiOVESIEl4AaABAg,n8iP75gIpmw,Quorum,UC3qn1yJA5PeW9rkGPatQxiw,1,1,2.0,positivo,False
+Ugx4dn4xlUl9Jp9QJeJ4AaABAg,6W4u8sGEnGM,Gobierno de la República de Guatemala,UCaT4saRcyqCLE657Rq2hhZQ,4,0,,sin señal léxica,False
+Ugx6Wjc02tqpQUBf4NJ4AaABAg,yLZS3JiEBg8,Quorum,UCc_F88PzGWtA1OPNUEASulA,3,0,,sin señal léxica,False
+Ugx74OPnWkWaFjpFuA94AaABAg,n8iP75gIpmw,Quorum,UCErZPJpHmLCsXs8ZWkAUupQ,1,2,0.5,neutro,True
+Ugx74OPnWkWaFjpFuA94AaABAg.A7ki-1ED5b2A7nIcG2_svP,n8iP75gIpmw,Quorum,UCFjudnPLoaSL1BaRuLahyHg,1,1,1.5,positivo,False
+Ugx7Gvgflw7nQKqoR094AaABAg,lj983NWyAQY,Municipalidad de Guatemala,UCFOxCyF926Y9eHhMeVoWLzw,5,3,1.6666666666666667,positivo,False
+Ugx7ezRwB-DpY3VQt754AaABAg,n8iP75gIpmw,Quorum,UC5H8ASmMC9WrURmzeB4ySog,1,1,-1.0,negativo,True
+Ugx7j6oWhgfonHPJCdR4AaABAg,n8iP75gIpmw,Quorum,UC72gBAtyb_VXQlYDcFrh6oQ,1,0,,sin señal léxica,True
+Ugx8FxDKPAY-M_JhRgd4AaABAg,n8iP75gIpmw,Quorum,UCi1b_TRQfgO1Z9O2gNGGWNA,1,6,1.1666666666666667,positivo,False
+Ugx8vuWdqsWZslsS9R14AaABAg,WIUZtitfLRw,Quorum,UCvcu1kR8xMYy_I1Ty-2mV2Q,3,1,3.0,positivo,False
+Ugx90cmhNaRBNDou1BR4AaABAg,OkXlHx0hx-8,Noticias Telemundo,UCBlm80VQ4YoV3bUJR_XhkaQ,6,1,1.0,positivo,False
+Ugx90cmhNaRBNDou1BR4AaABAg.AaA5Ej9IqgQAaBaWPRQg7K,OkXlHx0hx-8,Noticias Telemundo,UCi2KiZq63sRq8Mfbcp-MelQ,6,0,,sin señal léxica,False
+Ugx90cmhNaRBNDou1BR4AaABAg.AaA5Ej9IqgQAaCnVqXU5cy,OkXlHx0hx-8,Noticias Telemundo,UCBlm80VQ4YoV3bUJR_XhkaQ,6,1,-1.0,negativo,True
+Ugx90cmhNaRBNDou1BR4AaABAg.AaA5Ej9IqgQAaCz3GqqPAJ,OkXlHx0hx-8,Noticias Telemundo,UCi2KiZq63sRq8Mfbcp-MelQ,6,0,,sin señal léxica,False
+UgxCKgaQSm13r2z9hFd4AaABAg,j43HgwYFKfk,Quorum,UColMq7LmaoY3MT6aIDGrGvA,2,1,-2.0,negativo,False
+UgxCT5F3jO763e2aO-t4AaABAg,OkXlHx0hx-8,Noticias Telemundo,UCat2qkYvqmtDNEmo2PVuhXw,6,0,,sin señal léxica,False
+UgxCjFHfuFk1jUGvoIB4AaABAg,lj983NWyAQY,Municipalidad de Guatemala,UCSTAUWVc1_82DHYeqOsqEFA,5,1,2.0,positivo,False
+UgxD16VX3BhREOtsuhJ4AaABAg,yLZS3JiEBg8,Quorum,UCcFIBN-rtC3d3hXeuN5TfWw,3,3,1.3333333333333333,positivo,True
+UgxDBhcq11EK83DqrSZ4AaABAg,j43HgwYFKfk,Quorum,UCV0lM03g5fg5pbPj97-sAtA,2,1,3.0,positivo,False
+UgxDFo35bUo0APtZcd94AaABAg,lj983NWyAQY,Municipalidad de Guatemala,UC_ljZ1hZXR9pzexFz87P5ZA,5,2,-0.5,neutro,False
+UgxEE17R1iQyuDZebVF4AaABAg,06mFNPU0aB8,Noti7,UCLXYp1Cvc5DLtq5UQL5D9vw,8,0,,sin señal léxica,False
+UgxEE17R1iQyuDZebVF4AaABAg.A_UFk_pMAbMA_VZ_0Vdu89,06mFNPU0aB8,Noti7,UCfjhejO7LZy4doXURa7LZCQ,8,0,,sin señal léxica,False
+UgxE_8DGgJmaHaV_WLJ4AaABAg,n8iP75gIpmw,Quorum,UCplrIQtaPj6au60_f2-mOYw,1,0,,sin señal léxica,False
+UgxEsAK7q3l34wFdZ414AaABAg,6W4u8sGEnGM,Gobierno de la República de Guatemala,UCql1n3Ey6ULMSOACjMe-fxQ,4,1,3.0,positivo,False
+UgxEsAK7q3l34wFdZ414AaABAg.A_zCnf5bSajA_zKDdWQaaO,6W4u8sGEnGM,Gobierno de la República de Guatemala,UCZFQwqh90apuL8eFhvRBkUg,4,3,0.0,neutro,True
+UgxEsAK7q3l34wFdZ414AaABAg.A_zCnf5bSajA_zMcZPgoSk,6W4u8sGEnGM,Gobierno de la República de Guatemala,UCoGdCoJg2Lh0OX_jv6cG16g,4,2,2.0,positivo,False
+UgxEsAK7q3l34wFdZ414AaABAg.A_zCnf5bSajA_zX0eQk5DZ,6W4u8sGEnGM,Gobierno de la República de Guatemala,UCyJhqmMbsvjpoarBBStA2kg,4,1,1.0,positivo,False
+UgxEsAK7q3l34wFdZ414AaABAg.A_zCnf5bSajA_zXHoAX3hj,6W4u8sGEnGM,Gobierno de la República de Guatemala,UCyJhqmMbsvjpoarBBStA2kg,4,3,-0.6666666666666666,negativo,True
+UgxEsAK7q3l34wFdZ414AaABAg.A_zCnf5bSajA_zXUuRIq0q,6W4u8sGEnGM,Gobierno de la República de Guatemala,UCyJhqmMbsvjpoarBBStA2kg,4,1,1.0,positivo,True
+UgxEsAK7q3l34wFdZ414AaABAg.A_zCnf5bSajA_znUL05zze,6W4u8sGEnGM,Gobierno de la República de Guatemala,UC63tFvbQ_hJhGDi2nbjssjw,4,2,-0.8333333333333333,negativo,False
+UgxEsAK7q3l34wFdZ414AaABAg.A_zCnf5bSajAa0q77b9a3F,6W4u8sGEnGM,Gobierno de la República de Guatemala,UCtCtts20bW6F9CSohau51Iw,4,3,1.0,positivo,True
+UgxEsAK7q3l34wFdZ414AaABAg.A_zCnf5bSajAa0qEPC8tJc,6W4u8sGEnGM,Gobierno de la República de Guatemala,UCtCtts20bW6F9CSohau51Iw,4,0,,sin señal léxica,False
+UgxEsAK7q3l34wFdZ414AaABAg.A_zCnf5bSajAa41uU3Anhg,6W4u8sGEnGM,Gobierno de la República de Guatemala,UCWaRixDdpgllTBf4V0jPnKQ,4,2,-1.5,negativo,True
+UgxFOJmnMHqi2dpDaZd4AaABAg,n8iP75gIpmw,Quorum,UCcfdg8crmMJwEuLUsAhV7yg,1,3,-0.3333333333333333,neutro,True
+UgxFzCyhju6zPSl4zwZ4AaABAg,j43HgwYFKfk,Quorum,UC6Uj1FT5JjDSF8vudvDxPAA,2,1,1.0,positivo,False
+UgxHqBlwo8Dpvv-2P5d4AaABAg,n8iP75gIpmw,Quorum,UCj-LL25XJnjxepPKCc3NGog,1,4,0.0,neutro,True
+UgxJQfg5iHA6vRWS0El4AaABAg,j43HgwYFKfk,Quorum,UC1DpqK6vaPEkBOMNvypsKYg,2,4,0.0,neutro,True
+UgxK5IJwWigmJ56Xp7p4AaABAg,ndAZjHqzzT8,Quorum,UCpsKOkt5iWTbenzeuq7dsmQ,3,1,1.0,positivo,False
+UgxKfM_nJMsGTkKkM8V4AaABAg,n8iP75gIpmw,Quorum,UCDftMWXQoJ6nONfY7GVOVjg,1,3,-2.0,negativo,True
+UgxLNf6Xy3xngPFLs594AaABAg,n8iP75gIpmw,Quorum,UCYwpX26TrCxq8TvbKGRYLXA,1,0,,sin señal léxica,False
+UgxLSZD8ZrNFmd10RKR4AaABAg,n8iP75gIpmw,Quorum,UCUIIIPTVDVHAXqhC_5V6lPA,1,4,-0.5,neutro,True
+UgxNSGVebHMGSFI8zX94AaABAg,6W4u8sGEnGM,Gobierno de la República de Guatemala,UCzZ6dDCEsLMXbc5pCFXIprw,4,3,-0.4444444444444445,neutro,False
+UgxNgFkGSE6nct4PF3V4AaABAg,PjmxCj-a9Hg,Gobierno de la República de Guatemala,UCNIeXbV_mEwpa412h1aqUWw,7,0,,sin señal léxica,False
+UgxOO0LIkZP1WvhR1U54AaABAg,ndAZjHqzzT8,Quorum,UC_6KbBY1bsYXz9fwFS0eQRg,3,0,,sin señal léxica,False
+UgxPHo503SIH-EmlR-t4AaABAg,6W4u8sGEnGM,Gobierno de la República de Guatemala,UCV3fr-YOixFKCZBbJP1-X4w,4,2,1.0,positivo,True
+UgxPRaGm9MdlK4U6VPt4AaABAg,n8iP75gIpmw,Quorum,UCDQaQv0hr2SS_PO-CMEwVHg,1,2,1.0,positivo,True
+UgxQC-ejR063rkAb1VB4AaABAg,yLZS3JiEBg8,Quorum,UCefAH1MbvADWUjE9WVcB9EQ,3,1,-1.0,negativo,True
+UgxR0AXNH_3DGn-T1494AaABAg,n8iP75gIpmw,Quorum,UC72gBAtyb_VXQlYDcFrh6oQ,1,2,-1.5,negativo,True
+UgxR1eqvFSEtPNShD8x4AaABAg,6W4u8sGEnGM,Gobierno de la República de Guatemala,UCEHXl4VvvVpq-_4xC5tsbhg,4,0,,sin señal léxica,False
+UgxS0pN-vg0fjeNSLeJ4AaABAg,6W4u8sGEnGM,Gobierno de la República de Guatemala,UCeQk-WfEA-cJRq4EKeE7TOw,4,3,1.0,positivo,False
+UgxTjz0jSJkZW5dGnSp4AaABAg,n8iP75gIpmw,Quorum,UCkd9W714-947dEE6ZOEBATA,1,0,,sin señal léxica,False
+UgxVUS-jkZU2DAjmNjR4AaABAg,n8iP75gIpmw,Quorum,UCljDbleJul41G1TzOjOZAVA,1,3,0.0,neutro,True
+UgxW0ZnTohConSPgOpp4AaABAg,j43HgwYFKfk,Quorum,UCGGHbtfbbe0o68etrOf0qxw,2,0,,sin señal léxica,False
+UgxWzoHDeFfVC7jrjzF4AaABAg,OkXlHx0hx-8,Noticias Telemundo,UCVdjCrh4tQoX3haNAZv-n5A,6,2,1.0,positivo,False
+UgxWzoHDeFfVC7jrjzF4AaABAg.Aa9DdH5avRRAaB_gLYRAuw,OkXlHx0hx-8,Noticias Telemundo,UCi2KiZq63sRq8Mfbcp-MelQ,6,0,,sin señal léxica,False
+UgxXGkvxY-TdtPROWcV4AaABAg,j43HgwYFKfk,Quorum,UCZeIIQrGAedW8tCbKWmGY-A,2,2,0.0,neutro,True
+UgxXy9CurqMBEjFnVwF4AaABAg,ndAZjHqzzT8,Quorum,UCvcu1kR8xMYy_I1Ty-2mV2Q,3,1,3.0,positivo,False
+UgxZFzh6jzOX7Avhk1h4AaABAg,n8iP75gIpmw,Quorum,UCFUuDARXdmmIrLppEqf-rFg,1,1,-1.0,negativo,True
+Ugx_gjcVH5SlIKBNTGh4AaABAg,yLZS3JiEBg8,Quorum,UCCUmP4PlbwgikVFpYwbtRTg,3,1,3.0,positivo,False
+Ugxb-sknzjBr3wecCw94AaABAg,06mFNPU0aB8,Noti7,UCfXykdbSU97rj987LDUGfvg,8,1,-1.0,negativo,True
+Ugxb1xcC9SSJ_5vSArF4AaABAg,j43HgwYFKfk,Quorum,UC4Avya4kmR4Q0FrfFdBozSQ,2,4,-0.375,neutro,False
+Ugxbz7-04jLwadBMK_p4AaABAg,n8iP75gIpmw,Quorum,UChep9kVb5gQmpodEEl10Xlg,1,2,-1.5,negativo,True
+UgxcBa2IQb3I0JZcFax4AaABAg,6W4u8sGEnGM,Gobierno de la República de Guatemala,UCtsxPYw8VUsH_FfnKg-0lmw,4,0,,sin señal léxica,False
+UgxcGV8-rD83ACvM0954AaABAg,n8iP75gIpmw,Quorum,UCRlCV9zSn7avAWh-9_XFWqQ,1,2,-2.0,negativo,True
+UgxctiUZJriWwsE0a6J4AaABAg,n8iP75gIpmw,Quorum,UCut6b9S98nv84cVX89PmKzA,1,4,0.25,neutro,True
+Ugxd8fn-MEnc3SKPtid4AaABAg,6W4u8sGEnGM,Gobierno de la República de Guatemala,UCfo_yUPzy1f1POwwZxhZ06Q,4,3,1.0,positivo,True
+UgxdfjiT5_VBaeADj7h4AaABAg,6W4u8sGEnGM,Gobierno de la República de Guatemala,UCV3fr-YOixFKCZBbJP1-X4w,4,1,2.0,positivo,False
+Ugxe0MXeW4ziwUMTfF54AaABAg,n8iP75gIpmw,Quorum,UCTylKrsqkrBKIqubMu_5N0Q,1,0,,sin señal léxica,False
+UgxeJQgzDc124jVv7Fx4AaABAg,j43HgwYFKfk,Quorum,UC5hvEnRUzI4Kfvwnyi4QxqQ,2,2,-0.25,neutro,False
+Ugxf6gnAtXKqV1Q_zRd4AaABAg,WIUZtitfLRw,Quorum,UCVhif9eV0f8plICen2DnpKA,3,1,3.0,positivo,False
+UgxfUxJfY_pjvu9318Z4AaABAg,n8iP75gIpmw,Quorum,UC1vr9aaMI2crB0NvwFHUeoQ,1,5,-2.0,negativo,True
+UgxfnbtuhVQuDILnXj14AaABAg,n8iP75gIpmw,Quorum,UCEgEQmRbtL5fwr9_DqAC--g,1,1,-1.0,negativo,True
+Ugxgxziq7k4s9WwmauB4AaABAg,lj983NWyAQY,Municipalidad de Guatemala,UCIUhbSCy3-SGRe5UtqM4fzQ,5,4,0.16666666666666674,neutro,True
+UgxiEgXuexKPtHEwAQJ4AaABAg,OkXlHx0hx-8,Noticias Telemundo,UCozFYHN0e_-vlQbX3wQGOug,6,3,-1.3333333333333333,negativo,True
+UgxiEgXuexKPtHEwAQJ4AaABAg.Aa9HLCNywwKAa9OgyseDes,OkXlHx0hx-8,Noticias Telemundo,UCQMMuADgqWUOcJpLwHOzC-g,6,3,-1.3333333333333333,negativo,False
+UgxiEgXuexKPtHEwAQJ4AaABAg.Aa9HLCNywwKAa9ZeEQh7n7,OkXlHx0hx-8,Noticias Telemundo,UC-QOpE7GOxlXcHZ8b7HbQKA,6,1,2.0,positivo,False
+Ugxj76_NAyOnh_vsgMV4AaABAg,lj983NWyAQY,Municipalidad de Guatemala,UC0RpuMwkDKJYqgKHtsJRuWQ,5,1,2.0,positivo,False
+UgxkcFai5KbeHyhGbnF4AaABAg,6W4u8sGEnGM,Gobierno de la República de Guatemala,UC-HeUTT6_g-VoiWds2a4H-w,4,1,3.0,positivo,False
+Ugxl5bLZ1llR9fV0V0l4AaABAg,n8iP75gIpmw,Quorum,UC2Y_EHWQKevubk4vOEBBFxw,1,3,1.6666666666666667,positivo,False
+UgxoLjEjkngSVGZvO1N4AaABAg,j43HgwYFKfk,Quorum,UCpsKOkt5iWTbenzeuq7dsmQ,2,0,,sin señal léxica,False
+Ugxoc10_rBva4f6IW2N4AaABAg,n8iP75gIpmw,Quorum,UCwW2OFy95P7ZBkOPxWkpvYg,1,0,,sin señal léxica,False
+UgxovP0Yh3_qrKdrKrp4AaABAg,yLZS3JiEBg8,Quorum,UCwEe1RKlEv1UpNWmWYfSh4w,3,5,-1.4,negativo,True
+UgxpFKbiejsVGSNIcTh4AaABAg,n8iP75gIpmw,Quorum,UCQtICyzWmhC5woCtbNgaSmg,1,0,,sin señal léxica,False
+UgxqEChOyWebtVaqy-V4AaABAg,n8iP75gIpmw,Quorum,UCDlr1VadSucIZgZ171pRBjQ,1,0,,sin señal léxica,False
+UgxqSfWMWvqMX8tiC5x4AaABAg,n8iP75gIpmw,Quorum,UCHhHUjaMAZ8SiXdCUCj9DkQ,1,0,,sin señal léxica,False
+UgxrZBO3MtEqcgXAIEN4AaABAg,lj983NWyAQY,Municipalidad de Guatemala,UCxKR3RA8T-kxMgq_2WWhRcQ,5,8,1.25,positivo,False
+UgxswojCyw1a0RuHVEp4AaABAg,3Nfp9h5avBI,Noticiero Guatevisión 13 Hrs.,UCJxJC56BSAX-ArD0NAb9qnQ,13,1,-2.0,negativo,False
+UgxuO_1lX_-jTQfAzZx4AaABAg,lj983NWyAQY,Municipalidad de Guatemala,UCqilIa8r7iek5sGYg_q6ofA,5,1,3.0,positivo,False
+UgxudaO35O8XcM9Wu4t4AaABAg,3Nfp9h5avBI,Noticiero Guatevisión 13 Hrs.,UCyor0Mmm0ivLX2jIdyGp84Q,13,1,-1.0,negativo,True
+UgxvgdNqovIhqUZDxUx4AaABAg,j43HgwYFKfk,Quorum,UCpe5jW3MIqkgTJ-PgkzvM6Q,2,0,,sin señal léxica,False
+UgxvmbFNm6tYRX6yfLN4AaABAg,n8iP75gIpmw,Quorum,UCz3gu01bmjNv0DpRq-K3XYg,1,2,-2.0,negativo,False
+Ugxvt0tvqY4UlDS2hoh4AaABAg,j43HgwYFKfk,Quorum,UCuXmOjxC-htcprLgeVXz6Tg,2,3,-0.16666666666666666,neutro,False
+UgxvxNmPMdRuRDptJQN4AaABAg,PjmxCj-a9Hg,Gobierno de la República de Guatemala,UCNIeXbV_mEwpa412h1aqUWw,7,2,0.0,neutro,True
+Ugxw_1trnd8loD3302V4AaABAg,n8iP75gIpmw,Quorum,UCySYJU5kUh7X8gVt9la2ISA,1,1,-1.0,negativo,True
+UgxxNu7QTJHuAgFaEYN4AaABAg,n8iP75gIpmw,Quorum,UCHTGCgY2l-DQJIvlA_cpa_Q,1,2,-1.5,negativo,True
+UgxxdDS3FUc53KWN3KF4AaABAg,OkXlHx0hx-8,Noticias Telemundo,UCPNXmbOBVeC4HS-xemvcPtQ,6,4,0.0,neutro,True
+Ugxy4k7pO6jFtwyDyFp4AaABAg,n8iP75gIpmw,Quorum,UCtUR3_CAiE7fCoZHM6cMfyQ,1,0,,sin señal léxica,False
+Ugxz9vnSvQJNt4YNbYV4AaABAg,WIUZtitfLRw,Quorum,UCGj2v6Gl5bN8NSrzJMXS-CA,3,2,-1.0,negativo,True
+UgxzETIqBajjXFTGd_R4AaABAg,yLZS3JiEBg8,Quorum,UCbrtvygfRT6QXqWDNrOf-cA,3,3,-0.6666666666666666,negativo,True
+UgxzN9_I9vkDCdX_8dN4AaABAg,n8iP75gIpmw,Quorum,UCOh6DaZC_x9HASnlRylEMfw,1,0,,sin señal léxica,True
+Ugy0LbKWrqUFhWPRoKN4AaABAg,n8iP75gIpmw,Quorum,UCL1MT278vSaQ83ZDkVWn1gw,1,5,-1.0,negativo,True
+Ugy0LbKWrqUFhWPRoKN4AaABAg.A7epXgDRFjZA7f-Z-rKQOV,n8iP75gIpmw,Quorum,UC8G5cJONY8L9voMyBW8Eoug,1,0,,sin señal léxica,True
+Ugy0dVAcWghuyCdAVS54AaABAg,n8iP75gIpmw,Quorum,UC7VUuJr9cGh845CmTvf7TlQ,1,4,-0.75,negativo,True
+Ugy1neHHTJYO0umhgLt4AaABAg,n8iP75gIpmw,Quorum,UCFhxtoeARHPnXXPcDrOU3Xg,1,1,1.0,positivo,False
+Ugy2FaeBadbmVJj7F714AaABAg,n8iP75gIpmw,Quorum,UCAlzM_N6xBlMYmM8EBzX86Q,1,6,-1.5,negativo,True
+Ugy4JA9MR8l_gkTNgWh4AaABAg,j43HgwYFKfk,Quorum,UClqA491Xa5fQcXcJJa-vTWw,2,0,,sin señal léxica,False
+Ugy4ex02KEXL5UFGjw14AaABAg,n8iP75gIpmw,Quorum,UCHTGCgY2l-DQJIvlA_cpa_Q,1,0,,sin señal léxica,False
+Ugy4utoHlyokVSeSi5h4AaABAg,n8iP75gIpmw,Quorum,UC3XTwHxygNCgjndsg-UiCQA,1,0,,sin señal léxica,False
+Ugy4x4u9e1_xRoppaMF4AaABAg,6W4u8sGEnGM,Gobierno de la República de Guatemala,UCvDwJBBY1mHK70aTEYl6rsA,4,4,0.0,neutro,True
+Ugy5j8gzaawBk-mw5et4AaABAg,n8iP75gIpmw,Quorum,UCkd9W714-947dEE6ZOEBATA,1,1,-1.0,negativo,True
+Ugy5lmf3RzzeJDUeqQd4AaABAg,ndAZjHqzzT8,Quorum,UCbrtvygfRT6QXqWDNrOf-cA,3,2,-2.0,negativo,True
+Ugy6Qii72nfxIpYyuCR4AaABAg,6W4u8sGEnGM,Gobierno de la República de Guatemala,UCV3fr-YOixFKCZBbJP1-X4w,4,1,2.0,positivo,False
+Ugy6isIL3n6cvYbJG-94AaABAg,JkpVO1hx2f8,Quorum,UCWWkebAekppaL5b5CNlppuw,12,1,2.0,positivo,False
+Ugy6y6DL1AgyNzNpfMZ4AaABAg,n8iP75gIpmw,Quorum,UCjmPuazZJzscrwvk0QR9RVw,1,4,0.75,positivo,True
+Ugy7-QbaMzLjAO_vJMB4AaABAg,n8iP75gIpmw,Quorum,UCipetjeiWj4CZB6EbyYziZg,1,1,-2.0,negativo,False
+Ugy7Dk5SDB_d3RFlHU94AaABAg,n8iP75gIpmw,Quorum,UCh5ESQvtzyHDhCA7XyekCFA,1,3,-1.6666666666666667,negativo,True
+Ugy7b0JTkHodE4sTU_54AaABAg,WIUZtitfLRw,Quorum,UCZIQnb1fkwe39Iw2TAu-bGA,3,3,1.0,positivo,True
+Ugy8csktFvR0eUZN4cp4AaABAg,n8iP75gIpmw,Quorum,UCTP3O0rMnc8z8v8jaDQwL0w,1,1,-1.0,negativo,True
+UgyAcWsNSqIPesdI3nF4AaABAg,n8iP75gIpmw,Quorum,UCsUCN0Yq_UyTvKjOJLmNrnQ,1,2,1.0,positivo,True
+UgyB52GZe4-PXJ2TqYB4AaABAg,j43HgwYFKfk,Quorum,UC3UVO7pTbeYvZ3ILEyRDskQ,2,0,,sin señal léxica,False
+UgyBhR2qUXgMe2NJjRN4AaABAg,PjmxCj-a9Hg,Gobierno de la República de Guatemala,UCuP4UK33HKtJE_S39ksmaTw,7,2,-0.5,neutro,True
+UgyC45vItnUiq1QrUtd4AaABAg,PjmxCj-a9Hg,Gobierno de la República de Guatemala,UClsrFGJKWPxxw7MiaEdKLXw,7,4,-1.75,negativo,False
+UgyC45vItnUiq1QrUtd4AaABAg.ALgn-KZ7p47ALgvLAMzZ1A,PjmxCj-a9Hg,Gobierno de la República de Guatemala,UCg3eIfd7BrsLEqS0BLkftHA,7,0,,sin señal léxica,True
+UgyC45vItnUiq1QrUtd4AaABAg.ALgn-KZ7p47ALgwtbYMM1u,PjmxCj-a9Hg,Gobierno de la República de Guatemala,UCg3eIfd7BrsLEqS0BLkftHA,7,0,,sin señal léxica,False
+UgyC45vItnUiq1QrUtd4AaABAg.ALgn-KZ7p47ALgx6SmnMen,PjmxCj-a9Hg,Gobierno de la República de Guatemala,UCg3eIfd7BrsLEqS0BLkftHA,7,1,-1.0,negativo,True
+UgyC9HUMcvW-e_nFJK14AaABAg,06mFNPU0aB8,Noti7,UCAxvOOHQk7dYPOajzFEVtbA,8,1,-1.0,negativo,True
+UgyCFEFtEmhDbi91yCF4AaABAg,06mFNPU0aB8,Noti7,UCq3mDTTRZnUybct5M9OSXbg,8,0,,sin señal léxica,False
+UgyCoulSuwV8jBnjbtN4AaABAg,n8iP75gIpmw,Quorum,UCGzXwyCzMzGmjmCbH3Hg01Q,1,0,,sin señal léxica,False
+UgyD5CIXnbXNiM-a4VF4AaABAg,6W4u8sGEnGM,Gobierno de la República de Guatemala,UC0HvfEWozTHbwl_iEmJNvVA,4,3,-0.3333333333333333,neutro,True
+UgyE6hk1g9jR7zB67lV4AaABAg,6W4u8sGEnGM,Gobierno de la República de Guatemala,UC14qlobYKqD-DO0j6b75lcA,4,2,2.5,positivo,False
+UgyEM7_iOGkWV0SbNuB4AaABAg,n8iP75gIpmw,Quorum,UCiGRBf2RNF0WRKhRVT7zFoA,1,1,2.0,positivo,False
+UgyFSrjeDvPsB0fKUdp4AaABAg,6W4u8sGEnGM,Gobierno de la República de Guatemala,UCa36MjQLoPAmgJo-R3G8WQA,4,1,1.0,positivo,False
+UgyHHYcKhbzXr6xEjth4AaABAg,06mFNPU0aB8,Noti7,UCjZgFEowMBrsjodqfovzdKw,8,1,-1.0,negativo,False
+UgyHIuxG8A2lYDRB6vh4AaABAg,6W4u8sGEnGM,Gobierno de la República de Guatemala,UC3YpzAr7pcdKC7BVFEpYzog,4,2,0.0,neutro,True
+UgyHIuxG8A2lYDRB6vh4AaABAg.A_zEyCTHfWFA_zWovudn2B,6W4u8sGEnGM,Gobierno de la República de Guatemala,UCyJhqmMbsvjpoarBBStA2kg,4,2,0.5,neutro,True
+UgyHcSyWHx2SKCg6db14AaABAg,j43HgwYFKfk,Quorum,UCQqlPPUGqAfWjd-FSh_qn7Q,2,1,-2.0,negativo,False
+UgyIX1zx3bbc9DsK8VR4AaABAg,n8iP75gIpmw,Quorum,UC8r11yOugM2NuRfitQOxLLg,1,1,-1.0,negativo,False
+UgyIfQ-oDt0uVFZIq9d4AaABAg,PjmxCj-a9Hg,Gobierno de la República de Guatemala,UCusjriFsDHEc2AOjqk-p5ig,7,8,1.0625,positivo,True
+UgyIteBIiYe7DjUN3554AaABAg,ndAZjHqzzT8,Quorum,UCVC2QugcI1G4RvlCiUqd1aQ,3,1,3.0,positivo,False
+UgyJ7QRY-X3DsJC-t-p4AaABAg,lj983NWyAQY,Municipalidad de Guatemala,UC5fvhAfm89JH8eDFdvc0xYw,5,0,,sin señal léxica,False
+UgyJnStLEHxVNbAfd0p4AaABAg,PjmxCj-a9Hg,Gobierno de la República de Guatemala,UCAV7QIjYhbDJaycQycM_0eQ,7,3,1.0,positivo,True
+UgyMRj1sNq6Xkrqepst4AaABAg,n8iP75gIpmw,Quorum,UC3E9mAgP7VoAE5mZoAexl5g,1,1,-1.0,negativo,True
+UgyN-BmjI1Qyr5moi-x4AaABAg,n8iP75gIpmw,Quorum,UCB5p8a5gklc80jJItP6xTHg,1,0,,sin señal léxica,False
+UgyNuIQ1W1M3g8ut6314AaABAg,6W4u8sGEnGM,Gobierno de la República de Guatemala,UC1NiEdJ7gk6FlDexIalWnGg,4,4,-0.8125,negativo,True
+UgyOyo4VyMiMOhqOkGd4AaABAg,yLZS3JiEBg8,Quorum,UCdQAuWwyC99MB7Y02Umj26Q,3,8,0.5,neutro,True
+UgyPm-2rnRLPav43Bt14AaABAg,TT4qJ5FXHYE,Quorum,UCtowGNY2lnlg6O2CkwDgkLg,11,0,,sin señal léxica,False
+UgyQQbXS_Q_JYcSefap4AaABAg,OkXlHx0hx-8,Noticias Telemundo,UCp_dAUfv8i3LW3zWc24dLaQ,6,0,,sin señal léxica,True
+UgyQxncw9dtHgZFgp014AaABAg,UhL9y3KUl8E,Quorum,UC_NRVt2UP88ZNTwzrZ66JSg,16,3,2.0,positivo,False
+UgyRmKHMG-ygpot6nY14AaABAg,j43HgwYFKfk,Quorum,UCylqlpsh8ENNM1LqgQ1KbxA,2,3,1.0,positivo,False
+UgyS31-ujtXB5VmjBRV4AaABAg,j43HgwYFKfk,Quorum,UCRvPToDkkumha7WJAfCDk1A,2,1,-3.0,negativo,False
+UgySlQlmZmrLAq5JsLx4AaABAg,PjmxCj-a9Hg,Gobierno de la República de Guatemala,UCPZueDLrCS4BmTBRMA4q0fA,7,2,0.5,neutro,True
+UgySlQlmZmrLAq5JsLx4AaABAg.ALh5XYlqNufALhOuUP3UYB,PjmxCj-a9Hg,Gobierno de la República de Guatemala,UC7IMsCxfZyWN7YQo8-JYa6Q,7,3,0.8333333333333334,positivo,True
+UgySttznhywvGXZyF-N4AaABAg,lj983NWyAQY,Municipalidad de Guatemala,UCHMQ_lDhibZ-XZ_3fo6oxwg,5,1,2.0,positivo,False
+UgyVLVHQ4zNBKTTDxtp4AaABAg,n8iP75gIpmw,Quorum,UCpsKOkt5iWTbenzeuq7dsmQ,1,3,-1.6666666666666667,negativo,False
+UgyWzgDknElvfn9oFJZ4AaABAg,j43HgwYFKfk,Quorum,UC7dadZG7kkGYnsNu6td0FbA,2,1,-2.0,negativo,False
+UgyX06qZFc3cNK6223J4AaABAg,n8iP75gIpmw,Quorum,UCrJn_rbo_ENAdeqneS-RmRw,1,4,-2.0,negativo,True
+UgyXTA5oFwzI70TKCUd4AaABAg,is3Mk5oC19g,TN23 Guatemala,UCFFrEmn6lPYiWyElpfzTy5Q,10,0,,sin señal léxica,False
+UgyYPJkzW5rbOUI_vcd4AaABAg,TT4qJ5FXHYE,Quorum,UCNiMNUJvaRJb0_QLClqwVnA,11,1,3.0,positivo,False
+UgyYRHeJlfB9VF69LSp4AaABAg,lj983NWyAQY,Municipalidad de Guatemala,UCs_5qeqdku9tGAq22y3OcuQ,5,2,2.5,positivo,False
+UgyYaWYhDStGYWDGkb94AaABAg,j43HgwYFKfk,Quorum,UCCBYcToQ2dwkd6TJh0FSyDg,2,1,2.0,positivo,False
+UgyYh5BUgByoCy2qNBR4AaABAg,yLZS3JiEBg8,Quorum,UCxcoDvP-g2_KTZDmVZtvb3w,3,11,0.22727272727272727,neutro,True
+UgyZ2zEvW_CClk8k15F4AaABAg,j43HgwYFKfk,Quorum,UCW-JC6lebVmf2P1dmY_L94g,2,3,2.3333333333333335,positivo,True
+Ugy_6i8lJAd2eVIRNjx4AaABAg,j43HgwYFKfk,Quorum,UCgJNFj5dnxXpcMvmuhZDPxA,2,1,3.0,positivo,False
+Ugy__nsWCBggw9EzOUd4AaABAg,n8iP75gIpmw,Quorum,UCFoIAE8k82D6AV-8gjjKaNg,1,5,0.4,neutro,True
+Ugy__nsWCBggw9EzOUd4AaABAg.A7lbRpGUZoHA7nJxaD37u-,n8iP75gIpmw,Quorum,UCFjudnPLoaSL1BaRuLahyHg,1,1,1.5,positivo,False
+Ugy_ejYOfCK6ERWL_dt4AaABAg,j43HgwYFKfk,Quorum,UCe8JZoYkX5oKUZyivHYdXhw,2,4,-0.5,neutro,True
+Ugy_hCCLd8GwWbnIbsd4AaABAg,ndAZjHqzzT8,Quorum,UCnU8wO1OurAmGstDw6VGjgQ,3,20,0.5,neutro,True
+Ugyav8Au2cT8yVfYgp54AaABAg,PjmxCj-a9Hg,Gobierno de la República de Guatemala,UCf5lnNZF7Qrtli9v4N_23WQ,7,0,,sin señal léxica,False
+Ugyb2uIeZGcNljNqap94AaABAg,j43HgwYFKfk,Quorum,UCW80DaMjQlEUibC98Cot-Dg,2,5,-0.7,negativo,False
+UgycKHbiLBi0WcSs8sh4AaABAg,n8iP75gIpmw,Quorum,UCL13XhnRzbGokEkCkEOb0-g,1,1,-1.0,negativo,True
+UgyciTatiqHr2BpFTqJ4AaABAg,j43HgwYFKfk,Quorum,UCDrmf9y9nLgFY5wnA2hTuGA,2,2,3.0,positivo,False
+UgydkbyzemdvsBJrYxt4AaABAg,n8iP75gIpmw,Quorum,UCTD6q1nyIe3Y7HhqjaMj72w,1,2,-1.0,negativo,True
+UgyeTw07aydjDqK4crN4AaABAg,lj983NWyAQY,Municipalidad de Guatemala,UC0aEyakBPqcBkVJiErfSupQ,5,0,,sin señal léxica,False
+Ugyeb8_nptWKXnFXH8F4AaABAg,n8iP75gIpmw,Quorum,UChs3tU2BcKOT0CezykvAsGw,1,1,-1.0,negativo,True
+Ugyejets0FNr0Zh-VuZ4AaABAg,n8iP75gIpmw,Quorum,UC650pRT-OYzny3GwOH8Cgfw,1,0,,sin señal léxica,False
+UgyfMf4MkQsDKavjbLV4AaABAg,n8iP75gIpmw,Quorum,UC9vMq1YF-e7C-VO0SHkbUTA,1,1,-1.0,negativo,True
+UgyhYgz2ilvm1-T5IW94AaABAg,j43HgwYFKfk,Quorum,UCWoAVGVqCn4xtINCMOTM4jg,2,5,-1.0,negativo,True
+UgyiGiWPuiTR2hkzmVd4AaABAg,n8iP75gIpmw,Quorum,UCDPWkUX3sNNaCx-m1dV4glA,1,1,-2.0,negativo,False
+UgyiegHTZAVz8J4Ogvt4AaABAg,j43HgwYFKfk,Quorum,UCsGoJEvb-cFPZ2rWoJcXzEQ,2,2,1.5,positivo,False
+UgyihMW-pXKI2cEDqWx4AaABAg,n8iP75gIpmw,Quorum,UCXXh7yg5KUFIWylTiKVEFKQ,1,0,,sin señal léxica,False
+UgyisqlInC7oBNbU95Z4AaABAg,n8iP75gIpmw,Quorum,UC5H8ASmMC9WrURmzeB4ySog,1,0,,sin señal léxica,False
+Ugyk3PqfIuDEuXyeb494AaABAg,n8iP75gIpmw,Quorum,UCfM3nrxtTQMY5jFx1v1J4Gg,1,1,-2.0,negativo,False
+UgykKTDDGdoiNQIuYJd4AaABAg,n8iP75gIpmw,Quorum,UCp4iw5_5SmV9VGTFSNVGOmQ,1,4,0.0,neutro,True
+UgymHCpILRINq5oT_7B4AaABAg,lj983NWyAQY,Municipalidad de Guatemala,UCIp19h9igblA2YKfSLPDAug,5,0,,sin señal léxica,False
+UgymHZwhYtsW9EYkxdl4AaABAg,n8iP75gIpmw,Quorum,UCQtICyzWmhC5woCtbNgaSmg,1,1,-1.0,negativo,True
+Ugynh0Cq17X889qHS0J4AaABAg,n8iP75gIpmw,Quorum,UCwha8rxULYMVtNwZWeSkE1A,1,1,-1.0,negativo,True
+UgyoRKhs1yP8oKoD3uh4AaABAg,j43HgwYFKfk,Quorum,UCylqlpsh8ENNM1LqgQ1KbxA,2,0,,sin señal léxica,False
+UgyoglGwyV2PhIAvHdt4AaABAg,j43HgwYFKfk,Quorum,UCHbwIx9pmQuf7i-4_xO2EpA,2,3,2.3333333333333335,positivo,False
+UgyqA5EpXnBPn_uH-KB4AaABAg,j43HgwYFKfk,Quorum,UCu8_3-Wg-YzNyvHYQDEscfw,2,3,-0.3333333333333333,neutro,True
+Ugyr_-OfFbHlc9uWhg94AaABAg,OkXlHx0hx-8,Noticias Telemundo,UCIgoiXdIKJyUGmUoH2Lxdzg,6,5,2.0,positivo,True
+UgysnIFZt6-_f2iGbid4AaABAg,06mFNPU0aB8,Noti7,UCXN2s7DwTJm33xO-pNkAdaA,8,1,3.0,positivo,False
+UgysqnYM0p-_jyWisMJ4AaABAg,lj983NWyAQY,Municipalidad de Guatemala,UCgLrWFdYitoP-b7-PxtUr-w,5,0,,sin señal léxica,False
+UgysslM7dkNnQ1JT7Mh4AaABAg,j43HgwYFKfk,Quorum,UCAKuKvcbfnBD3kF5njNu-IA,2,1,3.0,positivo,False
+UgyuZ00FMdgmao7sNMx4AaABAg,n8iP75gIpmw,Quorum,UCFxE8GbokBrBsPEKM1xrOjQ,1,3,0.0,neutro,True
+Ugyuk_4Gq9tbJjGZVRl4AaABAg,n8iP75gIpmw,Quorum,UCh5ESQvtzyHDhCA7XyekCFA,1,2,-1.0,negativo,True
+UgyvMO5z1LjtvyRIIxd4AaABAg,is3Mk5oC19g,TN23 Guatemala,UCk4O-J1BhoqPmig1KLGJePA,10,2,-0.5,neutro,False
+UgyvSxtnuw9xRiNU5tl4AaABAg,j43HgwYFKfk,Quorum,UCUoYsrx1oZnCZ0usbBJn4fA,2,1,2.0,positivo,False
+UgyxvyPVCur3jgc_1mx4AaABAg,b_Hkrkl3adA,PrensaLibreOficial,UCHu8x4MVkayU6VgwVKd--MQ,9,1,-2.6666666666666665,negativo,True
+UgyypM6Ts6Ut_EuFcdN4AaABAg,n8iP75gIpmw,Quorum,UC-jS_kA9w-OmpupXDx156Rg,1,0,,sin señal léxica,False
+Ugyyx5lXrgFXsraCIMh4AaABAg,n8iP75gIpmw,Quorum,UC9vMq1YF-e7C-VO0SHkbUTA,1,1,-2.0,negativo,False
+UgyzKNq94Z4Y2GSth514AaABAg,yLZS3JiEBg8,Quorum,UChT7pzGytNd92Nmvi-zuWog,3,0,,sin señal léxica,False
+Ugyzgy-Lqlq6CTb4GPB4AaABAg,n8iP75gIpmw,Quorum,UChZknRmJkeGeQk0-mQuhDOg,1,3,-0.3333333333333333,neutro,True
+UgyzzIxBoO0_7kX1EWJ4AaABAg,WIUZtitfLRw,Quorum,UCOARn3hnfkB7-_Rwa8Hoqcw,3,2,-0.25,neutro,False
+Ugz-XNtfLx0lzcoHUXN4AaABAg,b_Hkrkl3adA,PrensaLibreOficial,UC9Wp6vL5oCU37qC3Aj94WZA,9,1,3.0,positivo,False
+Ugz158DoUO_zyZlglG14AaABAg,06mFNPU0aB8,Noti7,UCIXLDYqR_syskKRJy_x9W9Q,8,0,,sin señal léxica,False
+Ugz1TFgP101cP3SQAW94AaABAg,n8iP75gIpmw,Quorum,UCYN4wSQ1Sx4_LurxLlW7MPg,1,12,-0.08333333333333333,neutro,True
+Ugz1VUKAy1iuwk_x2jN4AaABAg,yLZS3JiEBg8,Quorum,UCTTILH6QCIxbTnEWxwRqs1g,3,0,,sin señal léxica,False
+Ugz1kbHjtN-jQUk3sWd4AaABAg,n8iP75gIpmw,Quorum,UC5bG9nc_JV3FsNP2KseQiYw,1,2,-1.5,negativo,True
+Ugz200h27x5RIAnswQd4AaABAg,n8iP75gIpmw,Quorum,UCKDR0f2fu2UzWL8mBv5-BHw,1,4,0.25,neutro,True
+Ugz26waEPWK6VtsenFZ4AaABAg,PjmxCj-a9Hg,Gobierno de la República de Guatemala,UCNIeXbV_mEwpa412h1aqUWw,7,1,1.0,positivo,False
+Ugz26waEPWK6VtsenFZ4AaABAg.ALglV0O_2mtALgq1_mUSB_,PjmxCj-a9Hg,Gobierno de la República de Guatemala,UCbYoNG5J3Au5BqtbXogfEFw,7,0,,sin señal léxica,False
+Ugz2Y0LOPaJfoV8R01d4AaABAg,n8iP75gIpmw,Quorum,UCl0ekS9Tt0jJGtOEM18S63w,1,0,,sin señal léxica,False
+Ugz5OziU6YjREVjZJUZ4AaABAg,PjmxCj-a9Hg,Gobierno de la República de Guatemala,UCVQf0tzL7xRzFJsABVVULpg,7,2,0.5,neutro,False
+Ugz6naDsqtHsbONkRBl4AaABAg,b_Hkrkl3adA,PrensaLibreOficial,UCsUCN0Yq_UyTvKjOJLmNrnQ,9,0,,sin señal léxica,False
+Ugz76M4X7jXyiAqAC_d4AaABAg,n8iP75gIpmw,Quorum,UCsSXdJct-nsS8DsABoEsaYA,1,2,1.5,positivo,False
+Ugz76M4X7jXyiAqAC_d4AaABAg.A7j4tx1RMDbA7oQQlZnZR4,n8iP75gIpmw,Quorum,UC9xr9QvIcDvoZNUX5f-jaZw,1,1,-1.0,negativo,True
+Ugz7WPxTOQEwmZpnx_V4AaABAg,n8iP75gIpmw,Quorum,UCi1b_TRQfgO1Z9O2gNGGWNA,1,6,1.1666666666666667,positivo,False
+Ugz8BbgcucTeHAjfvqJ4AaABAg,n8iP75gIpmw,Quorum,UCpl8rF8uv_8uui-QRvuJaRA,1,1,-2.0,negativo,False
+Ugz8fJcHTKHoEWJPwWt4AaABAg,j43HgwYFKfk,Quorum,UClhMWQ7XKWywYvbRnuf8QsA,2,0,,sin señal léxica,False
+Ugz8hBV9j2KQGtMhPUR4AaABAg,is3Mk5oC19g,TN23 Guatemala,UC4kg7zuTfqQKLd2bkZrSYBA,10,0,,sin señal léxica,False
+Ugz8pKFUmjVv-zF8lvJ4AaABAg,n8iP75gIpmw,Quorum,UCOLGv5Pf6BF2wFcwUzgcvHg,1,1,-1.0,negativo,True
+UgzBnKyfiTTp9djPTh54AaABAg,OkXlHx0hx-8,Noticias Telemundo,UCbNanjFI51cwGqMAb2rOrBw,6,7,2.0,positivo,False
+UgzBpiHQkRpqfeyCDwd4AaABAg,n8iP75gIpmw,Quorum,UC2weSE8rpqkGMOp6StYtVfg,1,1,-3.0,negativo,True
+UgzDFSLs4n_6XtQjgjZ4AaABAg,lj983NWyAQY,Municipalidad de Guatemala,UCyzf29IYjNw67gGIfsjgtxA,5,2,2.0,positivo,False
+UgzDK8qo7Il1yafNllJ4AaABAg,PjmxCj-a9Hg,Gobierno de la República de Guatemala,UCzZ6dDCEsLMXbc5pCFXIprw,7,0,,sin señal léxica,False
+UgzESrzC3abcN60poBF4AaABAg,lj983NWyAQY,Municipalidad de Guatemala,UCaT6M2zp7X6r6Whd8Vv3kHQ,5,2,1.0,positivo,True
+UgzFOdujc0-cy9W1Uv14AaABAg,n8iP75gIpmw,Quorum,UC3NMzdMYryaw82kPTnsaljg,1,1,-2.0,negativo,False
+UgzGYzecKVZyDzajKPV4AaABAg,n8iP75gIpmw,Quorum,UCLggDc_a5HriXv7I1h02sOA,1,0,,sin señal léxica,False
+UgzH_SOr2gGO_dDna5J4AaABAg,n8iP75gIpmw,Quorum,UCSou6a2OuYGSvPjm5psquyA,1,0,,sin señal léxica,False
+UgzJ85lM1ogkB4KOk2d4AaABAg,PjmxCj-a9Hg,Gobierno de la República de Guatemala,UCtNyHmRZtvGF2hSvI2dUBWw,7,5,-0.55,negativo,True
+UgzKcy6Zr6Ele2EAo6J4AaABAg,lj983NWyAQY,Municipalidad de Guatemala,UCGqKxQS-z3NZzZF-2w338AA,5,2,0.0,neutro,False
+UgzL_lyzP1gwPdnVQ3Z4AaABAg,yLZS3JiEBg8,Quorum,UCXO1BBohNWXkK9SBDAG2ySg,3,1,3.0,positivo,False
+UgzMXsCXt9Lh-tk3fZd4AaABAg,6W4u8sGEnGM,Gobierno de la República de Guatemala,UChyps3dqY-VY1_wLeq-2lhw,4,2,1.0,positivo,True
+UgzMXsCXt9Lh-tk3fZd4AaABAg.A_zGMKwFBhPA_zWhjiGKb7,6W4u8sGEnGM,Gobierno de la República de Guatemala,UCyJhqmMbsvjpoarBBStA2kg,4,0,,sin señal léxica,False
+UgzM_dw7xZDkJJ8eYQ94AaABAg,n8iP75gIpmw,Quorum,UCXgr7vXlRrsaskPdo097kGA,1,0,,sin señal léxica,False
+UgzMppllQcjsXkBLgiZ4AaABAg,n8iP75gIpmw,Quorum,UCylqlpsh8ENNM1LqgQ1KbxA,1,0,,sin señal léxica,False
+UgzOB-KAGGElQGAPxEZ4AaABAg,n8iP75gIpmw,Quorum,UC4cXueR2bKGFJV0Fk76gwmA,1,2,-1.5,negativo,False
+UgzOGr7KGQ9pa-CJdgN4AaABAg,n8iP75gIpmw,Quorum,UCNBnKqWf4d-rS4HwJRQljmQ,1,3,0.3333333333333333,neutro,True
+UgzOYjc2Ii04ZArW7vF4AaABAg,n8iP75gIpmw,Quorum,UCmvOgzmmXbjUthHy-WJ52hQ,1,0,,sin señal léxica,True
+UgzOeIbOqa0dhaWyj_B4AaABAg,s0eco-BofOs,Quorum,UC6xI_MOaxajIWpoP8BH6E_Q,17,0,,sin señal léxica,False
+UgzPExq20lnf7-8d7_p4AaABAg,lj983NWyAQY,Municipalidad de Guatemala,UCtMBF_1O2jY2INlb_luuB_A,5,3,0.7777777777777777,positivo,False
+UgzQTWwjC_XVPUNxuXp4AaABAg,OkXlHx0hx-8,Noticias Telemundo,UCrqXyRsg-_hTosURZ-uvoKg,6,1,-1.0,negativo,True
+UgzRlz8OqalaHh8EnUl4AaABAg,OkXlHx0hx-8,Noticias Telemundo,UCGZMgmM92E3njyXNe9-kjAQ,6,1,-3.0,negativo,False
+UgzRlz8OqalaHh8EnUl4AaABAg.Aa9hqaKl_ywAaB_OUjpKKh,OkXlHx0hx-8,Noticias Telemundo,UCi2KiZq63sRq8Mfbcp-MelQ,6,0,,sin señal léxica,False
+UgzRyWsi9Ed1wsXKgwd4AaABAg,yLZS3JiEBg8,Quorum,UCOY3XpD9qMCRSA8AA8c4CAw,3,2,2.5,positivo,False
+UgzSjpcAY2zvJ6i-poh4AaABAg,is3Mk5oC19g,TN23 Guatemala,UCfRqgt2O-vjzUDMZY_tnxQw,10,0,,sin señal léxica,False
+UgzSu6dFpC7PrEYl7AF4AaABAg,n8iP75gIpmw,Quorum,UC9vMq1YF-e7C-VO0SHkbUTA,1,3,-0.6666666666666666,negativo,False
+UgzT_1dx4pvgJTFMsnZ4AaABAg,6W4u8sGEnGM,Gobierno de la República de Guatemala,UCp29O_C7cchZV8IxV7Crdag,4,1,-1.0,negativo,True
+UgzTqBd3og9IPuVu3o94AaABAg,n8iP75gIpmw,Quorum,UCrJn_rbo_ENAdeqneS-RmRw,1,1,-1.0,negativo,True
+UgzU2eLo006-Cz6rYLZ4AaABAg,ndAZjHqzzT8,Quorum,UCjJf-AJKRFFWtiN-CSwkDmA,3,2,-0.5,neutro,True
+UgzVRaRar_M-cPPi92x4AaABAg,is3Mk5oC19g,TN23 Guatemala,UCBtB5dIyx-C16UN8ClUD2UA,10,0,,sin señal léxica,False
+UgzVSZ19e2Cc28bFi-94AaABAg,n8iP75gIpmw,Quorum,UCDUffaruH6dyUnUGwsTKpgg,1,0,,sin señal léxica,False
+UgzVsPOuFAogocL8wKB4AaABAg,6W4u8sGEnGM,Gobierno de la República de Guatemala,UCgGqw4aqMdMVSGkKiMgrJRQ,4,2,2.5,positivo,False
+UgzWNBqTQMz8ba4pbUd4AaABAg,j43HgwYFKfk,Quorum,UC32oozucwCF3q8d4m8fyOUg,2,1,-1.0,negativo,False
+UgzWNJK42U_F1IKlwwh4AaABAg,n8iP75gIpmw,Quorum,UCvApqeCbLod-wejtT4CcVuA,1,2,0.5,neutro,True
+UgzWs20muY6Ghm9Z7094AaABAg,JkpVO1hx2f8,Quorum,UCHGd14aYuZZShLD73dkk6mg,12,1,3.0,positivo,False
+UgzXDN6uNEworKy3uqZ4AaABAg,n8iP75gIpmw,Quorum,UCiMythXHsw7eQEMykCdmMUA,1,1,2.0,positivo,False
+UgzYz6n8mPI0dBWsP2h4AaABAg,j43HgwYFKfk,Quorum,UC-fiZBS5Gp1eCJd9ucgWnCg,2,3,-2.0,negativo,False
+UgzZMPOIKJlwEpgh7zd4AaABAg,b_Hkrkl3adA,PrensaLibreOficial,UC5PrBbmUlQolwqmiru7yZhw,9,5,-0.4,neutro,True
+UgzZMPOIKJlwEpgh7zd4AaABAg.AaB6SZj2UadAaBRkGrUAJI,b_Hkrkl3adA,PrensaLibreOficial,UC094EFEmMSdwVa8NQjjYBXg,9,2,-1.0,negativo,False
+UgzZMPOIKJlwEpgh7zd4AaABAg.AaB6SZj2UadAaCH5adXxCo,b_Hkrkl3adA,PrensaLibreOficial,UCGm3gRBEHGRJYmtCryZLtDw,9,1,-2.0,negativo,False
+UgzZc-W-gVj1t4SXc-54AaABAg,lj983NWyAQY,Municipalidad de Guatemala,UCwUAv3_LpWVtTIi7lkmTL7A,5,4,1.5,positivo,True
+UgzaTUgOy4ekC0xQoFt4AaABAg,n8iP75gIpmw,Quorum,UC5H8ASmMC9WrURmzeB4ySog,1,1,-1.0,negativo,True
+UgzaWev1Ju6338Y7Ehl4AaABAg,ndAZjHqzzT8,Quorum,UC5wuDq3U3vRAhOQI3D7gNdw,3,1,3.0,positivo,False
+UgzaWev1Ju6338Y7Ehl4AaABAg.A3Wof66r37mA3WrEtkJyep,ndAZjHqzzT8,Quorum,UCvcu1kR8xMYy_I1Ty-2mV2Q,3,0,,sin señal léxica,False
+Ugzb66mq9Rv0T7aalfJ4AaABAg,n8iP75gIpmw,Quorum,UCXXh7yg5KUFIWylTiKVEFKQ,1,2,-1.5,negativo,True
+UgzcJTEHjaN8bEV8Hfd4AaABAg,n8iP75gIpmw,Quorum,UC3XTwHxygNCgjndsg-UiCQA,1,1,-2.0,negativo,False
+UgzcVyiuFGJ0Yv0C4Zt4AaABAg,n8iP75gIpmw,Quorum,UCsJJAvrVGupdmhOqgtDp8dg,1,3,0.3333333333333333,neutro,True
+Ugzd2CVlJWOmHWBPSkN4AaABAg,n8iP75gIpmw,Quorum,UCQ_-LPP8JAbfkc-b1Q6NvWw,1,1,-2.0,negativo,True
+UgzeCbhVJhOJATewi5J4AaABAg,n8iP75gIpmw,Quorum,UCtNfIBnc5S5DbbQj_yxgJTw,1,0,,sin señal léxica,False
+UgzfLTatI6lJD6Z_u_94AaABAg,6W4u8sGEnGM,Gobierno de la República de Guatemala,UC-Iul5tDYH_oiAMXQH-KaaQ,4,2,2.5,positivo,False
+UgzfXuFsM8L3Qt6qWJV4AaABAg,WIUZtitfLRw,Quorum,UCyW68EGZey4ao_Vf2cR5Ztg,3,2,-0.5,neutro,False
+Ugzfc9D5wlSKYgY5Jrh4AaABAg,OkXlHx0hx-8,Noticias Telemundo,UCZjm6U576nX8WOiLhmMR3bw,6,0,,sin señal léxica,False
+Ugzfc9D5wlSKYgY5Jrh4AaABAg.Aa9bbFyRF_AAaB_C3DtL_L,OkXlHx0hx-8,Noticias Telemundo,UCi2KiZq63sRq8Mfbcp-MelQ,6,0,,sin señal léxica,False
+Ugzhc5zg6rDOR3ltTAZ4AaABAg,j43HgwYFKfk,Quorum,UC_LYoGs5C3mbZKZuKuqYCvw,2,1,2.0,positivo,False
+UgzhjFXjeUslGQMZ7KB4AaABAg,6W4u8sGEnGM,Gobierno de la República de Guatemala,UCRfkkatKrNtAARnXMMYBGlA,4,1,-2.0,negativo,False
+UgzhtSisQXcyX7bqkzB4AaABAg,n8iP75gIpmw,Quorum,UCA93ym2TXs_Ibyxb4Vcn-6Q,1,1,2.0,positivo,False
+Ugzi82q6lRyjtKUL5lV4AaABAg,n8iP75gIpmw,Quorum,UCAmtbUiIrUIhikru0ZoTFig,1,0,,sin señal léxica,False
+Ugzin8yr1Zz1k47GsSp4AaABAg,n8iP75gIpmw,Quorum,UCr1emrogPKkKTs_WTtx71xg,1,2,1.0,positivo,False
+UgzjFGboqNxQ7BcH0bZ4AaABAg,lj983NWyAQY,Municipalidad de Guatemala,UCRznz9-N3Qc1w-qNdLSIY2Q,5,2,2.5,positivo,False
+UgzjqVqTKYeOrM1kW0F4AaABAg,lj983NWyAQY,Municipalidad de Guatemala,UCY7Hq7F9Lnucf-Yr6JkHZNw,5,1,1.0,positivo,False
+Ugzk5XnOVKoVj8FiOCB4AaABAg,OkXlHx0hx-8,Noticias Telemundo,UC-QOpE7GOxlXcHZ8b7HbQKA,6,2,-1.5,negativo,True
+UgzlqevYeQWpdUl_KON4AaABAg,n8iP75gIpmw,Quorum,UCjSKM9j0Q7HLDr1hD6D-TUw,1,7,0.14285714285714285,neutro,False
+Ugzm7wFhhdctNQt_ubl4AaABAg,06mFNPU0aB8,Noti7,UCwCfs-2zbD5k0lG-UVg_JBw,8,1,3.0,positivo,False
+UgzmBKXDgncBFsDjRwd4AaABAg,n8iP75gIpmw,Quorum,UC72gBAtyb_VXQlYDcFrh6oQ,1,1,-1.0,negativo,False
+UgzmBVMoFVO53-_ZZ-54AaABAg,PjmxCj-a9Hg,Gobierno de la República de Guatemala,UC8xlJWNHz1V_W6q3fbuQH8g,7,1,3.0,positivo,False
+UgzpHaLJJjoD9FnKO6p4AaABAg,6W4u8sGEnGM,Gobierno de la República de Guatemala,UCyJhqmMbsvjpoarBBStA2kg,4,2,1.0,positivo,False
+UgzpdnDQDBV6UZ96GZh4AaABAg,PjmxCj-a9Hg,Gobierno de la República de Guatemala,UCgQJgI9vu1FI2dnC9mrFthw,7,1,-1.0,negativo,True
+UgzpzyaFY6F6IdFxzk14AaABAg,n8iP75gIpmw,Quorum,UCLFdHr9BEbXHkoJopbEPLZw,1,0,,sin señal léxica,False
+UgzrrbkpudLqNqr7s6R4AaABAg,n8iP75gIpmw,Quorum,UCRETAiYdh2dL5ZxB0_N1zDA,1,3,-1.6666666666666667,negativo,True
+Ugzs8eXa8mdQ8wlS4FZ4AaABAg,lj983NWyAQY,Municipalidad de Guatemala,UCi-vPdnpQreC7BkFs40mJGA,5,1,3.0,positivo,False
+UgztKpwRx20oET8wGLJ4AaABAg,PjmxCj-a9Hg,Gobierno de la República de Guatemala,UCHTGCgY2l-DQJIvlA_cpa_Q,7,3,1.0,positivo,False
+UgzuugQO6qMSbkVsdGp4AaABAg,PjmxCj-a9Hg,Gobierno de la República de Guatemala,UCtNyHmRZtvGF2hSvI2dUBWw,7,1,1.0,positivo,False
+UgzvKLXKEkVzjn_XRHp4AaABAg,n8iP75gIpmw,Quorum,UCsjs5Hp_r86x1xbK6FAeqaA,1,1,3.0,positivo,False
+UgzwvEpQc3M_AWvNDad4AaABAg,lj983NWyAQY,Municipalidad de Guatemala,UCRcSR3Lvn9DZAmJpVPANfZQ,5,1,2.0,positivo,False
+Ugzx7TTfRu5S-pT0LuZ4AaABAg,n8iP75gIpmw,Quorum,UCz3gu01bmjNv0DpRq-K3XYg,1,1,-2.0,negativo,False
+UgzxhrnRAMNePfy6u7J4AaABAg,PjmxCj-a9Hg,Gobierno de la República de Guatemala,UCGX_UbAQOXGZknv5iqklwTA,7,1,-2.0,negativo,False
+UgzzpE27HS1dmWfyATJ4AaABAg,n8iP75gIpmw,Quorum,UC-hfX8J5JPJ-dfuakzegMLA,1,6,0.5,neutro,True
